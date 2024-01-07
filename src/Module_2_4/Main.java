@@ -21,6 +21,5 @@ public class Main {
             uniqueWords.add(word);
         }
         scanner.close();
-        System.out.println("Number of unique words: " + uniqueWords.size());
     }
 }

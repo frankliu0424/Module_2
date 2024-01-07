@@ -8,6 +8,7 @@ public class Main {
             for (Card card : hand) {
                 System.out.println(card);
             }
+
         }
 
 }
